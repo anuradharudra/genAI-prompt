@@ -29,9 +29,9 @@ def extract_images_from_pdf(pdf_path, image_folder):
     doc.close()
 
 
-pdf_url = "https://jinkosolarcdn.shwebspace.com/uploads/Unpacking%20and%20Storage%20Instruction-EN-0807.pdf"
-pdf_path = "C:\\Users\\ranjans\\Desktop\\example.pdf"
-image_folder = "C:\\Users\\ranjans\\Desktop\\PDF_Extracted_Images"
+pdf_url = "Mention the URL from where PDF file needs to be downloaded"
+pdf_path = "Mention the path where the downloaded PDF file needs to be saved"
+image_folder = "Mention the path where the downloaded PDF file needs to be saved"
 
 download_pdf(pdf_url, pdf_path)
 text = extract_text_from_pdf(pdf_path)
