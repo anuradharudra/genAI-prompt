@@ -1,0 +1,637 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STORAGE AND UNPACKING 
+INSTRUCTION OF 
+PHOTOVOLTAIC MODULES 
+ 
+ 
+ 
+This manual is for Jinko solar PV module storage and unpacking 
+instructions. To ensure the safety of loading, unloading, unpacking 
+and storage of PV modules, please read this manual carefully. 
+When you need to unpack and install the modules, you can search 
+and download relevant content from Jinko's official website. 
+(www.jinkosolar.com) 
+HANDING INFORMATION 
+ 
+ 
+ 
+1.1 Forklift handling precautions 
+ 
+⚫ In the process of loading and unloading, the forklift should be selected 
+reasonably according to the size and weight of the goods. If the fork 
+length is less than 3/4 of the size of the goods, extension sleeves should 
+be fitted on the forks before the module is forked, in order to avoid the 
+packing container dumping when moving the forklift； 
+⚫ When the forklift is loaded with modules, the spacing between the two 
+forks should be adjusted as required. The load of the two forks should be 
+balanced without deflection. One side of the module package should be 
+close to the retainer (Figure1); 
+Figure 1 
+                                           Figure 2 
+⚫ Avoid sharp objects (such as forklift pallet fork) contact or collision with 
+module box, so as not to damage the internal modules (Figure 2); 
+⚫ Loading and unloading process, except forklift operator, others should 
+be kept at a safe distance from range, ensure the safety of personnel; 
+⚫ During loading and unloading, special command is required to avoid 
+failure and making modules down; 
+⚫ When using a forklift to move palletized packing boxes to the operation 
+area, the forklift shall be slowly and steadily lifted and put down gently 
+during loading and unloading, and the modules shall avoid turbulence and 
+violent vibration during transportation. 
+ 
+HANDING INFORMATION 
+ 
+ 
+ 
+1.2 Notes for container handling 
+ 
+⚫ 
+In order to prevent the safety of placing and unpacking modules affected 
+by tilt and uneven ground, please choose flat ground when unloading. 
+⚫ When unloading on the platform or ground, steel plate pads or tooling 
+shall be used to assist in moving the goods out of the container smoothly, 
+to avoid module bumps caused by the gap between the platform and the 
+container floor (Figure 3); 
+⚫ 
+It is recommended that the inclination angle between the fixture pad and 
+the plane should be less than 5°, to avoid the forklift hit the top of the 
+container due to too much inclination when it comes out of the container; 
+⚫ 
+When unloading cross-loading modules, special command is required to 
+ensure that the forklift does not exceed the modules, and prevent 
+damage to adjacent modules when fork is raised or placed due to 
+excessive length of forklift arms (Figure 4); 
+⚫ When unloading, the whole modules should be balanced as far as possible, 
+the forklift arm should be kept relatively horizontal, and the forklift truck 
+should fork the modules out of the container slowly and smoothly; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+Figure 4 
+ 
+ 
+HANDING INFORMATION 
+ 
+ 
+⚫ During the fork out of the modules, it is allowed of 2~3cm spacing 
+between modules and walls or adjacent modules, and then move back 
+slowly to prevent the carton from being damaged by friction between 
+modules and wall or adjacent modules (Figure 5); 
+⚫ When the goods go out of the container port, please slow down, and lower 
+the height of the forklift arm from the ground (it is recommended to close 
+to the bottom plate to reserve enough space for the top), pay attention to 
+the distance between the bottom of the goods and the top of the 
+container, prevent the goods from colliding with the top of the container, 
+and ensure that the whole pallet module is safely removed from the 
+container (Figure 6); 
+⚫ If the modules need to be temporarily stored after unloading, it is 
+recommended to keep sufficient space between each pallet to avoid 
+scratching the carton or pallet during the second transfer. 
+  Figure 5 
+ Figure 6 
+1.3 Tiger Pro/Neo container handling requirements and precautions 
+⚫ Unloading Tools: Forklift/Unloading platform/Unloading pad tooling. 
+If the container is unloaded on the unloading platform, it is required to be 
+used with the unloading platform or tooling. 
+ 
+ 
+ 
+ 
+ 
+HANDING INFORMATION 
+ 
+ 
+⚫ The height of the unloading platform and the height of the unloading 
+tooling should be kept at the basic level with the bottom of the container 
+(loading bottom plate), and the height tolerance should be controlled 
+within ±10mm. 
+The length of the horizontal extension of the unloading platform or 
+unloading tooling L≥ the total length of the unloading forklift and the 
+length of the module packing box. 
+L≥L1+L2 
+L
+：
+Length 
+extending 
+horizontally 
+from 
+the 
+unloading platform to the 
+bottom of the container 
+L1：Length of unloading forklift 
+L2：Length of the module packing box 
+ 
+ 
+Height of the container above the ground 
+ 
+ 
+⚫ When the container is unloaded： 
+When using the fuel forklift, adjust the height of the forks from the ground, 
+the forks into the short side of the pallet, after the forks into the bottom, 
+lift the modules at an appropriate height (the tilt angle required to lift the 
+modules <2°), the smaller the distance from the ground when the forklift 
+out of the container door, ensure that the height of the forks from the 
+ground and the distance from the goods to the top of the container is not 
+more than 80mm; 
+When the horizontal electric forklift is used to unload the goods, the arm 
+length of the forklift mechanical arm is required to be ≥1800mm. The arm 
+length of the forklift mechanical arm is required to lift the modules from 
+the short side of the pallet with a fork (the height of the forklift is required 
+to be ≤40mm from the ground), and the modules are moved out slowly. 
+If the modules are unloaded from long side forks, fuel oil forklifts are 
+needed to unload. 
+H2: Height of the module packing box 
+H1: Height of the container door 
+ 
+ 
+ 
+H1 H2 
+ 
+ 
+ 
+Height of the container above the ground 
+ 
+ 
+HANDING INFORMATION 
+ 
+ 
+1.4 Attention in loading and unloading with hoisting 
+ 
+⚫ The hoisting rope of crane unloading needs to choose a longer nylon sling, 
+wire rope is not allowed to use (Figure 7) ； 
+⚫ Before lifting, the length of the sling should be evenly distributed on both 
+sides to avoid the case body tilting to one side during lifting, which causes 
+the sling to be too tight and the assembly to explode; 
+⚫ When lifting, the box should be kept balanced to avoid module tilting； 
+⚫ When someone is required to direct the hoisting box to fall during 
+unloading, it shall be kept as flat as possible to avoid collision and throwing 
+of the module box, and the ground shall be flat (Figure 8). 
+ 
+Figure 7 
+Figure 8 
+⚫ In order to minimize the impact of sling on the 
+safety of goods in the process of hoisting, the 
+modules without frame should be supported 
+during loading and unloading. For example, 
+wooden sticks, boards, or other fixtures of the 
+same width as the outer packing cases should be 
+used on the upper part of the box to reduce the 
+pressure of the contact position on the box 
+(Figure 9). 
+ 
+Figure 9     
+STORAGE INFORMATION 
+ 
+ 
+ 
+MOUDLE SHOULD BE HANDLED BY 2 PERSONS 
+KEEP DRY 
+ 
+ 
+ 
+ STACK LIMIT IN 2 UNITS THIS SIDE  THIS SIDE UP 
+ 
+ 
+ 
+ 
+ FRAGILE 
+ 
+DO NOT STEP ON 
+ 
+ 
+ 
+ 
+ 
+STORAGE INFORMATION 
+ 
+ 
+2.1 Attentions for storage 
+ 
+⚫ Due to the complex environment and climate of the project site, it is 
+recommended to store the stacked modules with single support after 
+dismounting in order to ensure the safe storage of the modules on site (Only 
+after cutting the outer packing belt of the connecting two brackets, separate 
+the upper and lower brackets), the dual glass modules shall be stored with 
+single pallet after dismounting; 
+⚫ The modules shall be stored in a complete outer package. The storage area 
+shall be protected pallets and boxes from damp, direct sunlight and 
+waterproof (rain) measures; 
+⚫ The modules storage areas should be kept dry, level, the ground and the 
+horizontal Angle is less than 10 °; 
+⚫ Make sure that all modules with the same current gear are installed in the 
+same area centrally (Square matrix, combiner box); 
+ 
+Figure 10 
+Figure 11 
+⚫ 
+The modules should be placed neatly with a safe distance between the 
+boxes. The spacing between boxes should be greater than 30cm（Figure 
+10）； 
+⚫ 
+Please do not stack other items on the modules or boxes (Figure 11).
+ 
+UNPACKING INSTRUCTION 
+ 
+ 
+3.1 Equipment and Tools: Cutter, Glove, Forklift 
+ 
+3.2 People: No less than two persons 
+ 
+3.3 Unpacking step 
+ 
+Packing method A: 
+ 
+  
+ 
+1. Cut off straps within the 
+two pallets, and use a 
+forklift to separate the two 
+pallets. 
+2. Cut off the packing straps 
+of the single pallet, then 
+remove the isolated wood 
+(or plastic wrap) and the 
+carton cover. 
+3. Remove the first module 
+labeled "1" from the opening 
+position (marked in red) 
+firstly. 
+4. Remove the remaining 
+modules from the box 
+sequentially. 
+5. When the last 5 pieces of 
+modules are left in the box, 
+please placed to a solid 
+support on the side of 
+modules to avoid the box 
+turned over due to the 
+strong wind and accidental 
+collision. 
+UNPACKING INSTRUCTION 
+ 
+ 
+Packing method B: Plan 1(Conventional Packaging) 
+ 
+1. Remove the wrapping film around the box 
+and separate the upper and lower boxes. 
+ 
+ 
+ 
+ 
+2. The long side of the module to be 
+unpacked needs to be close to a solid 
+support for about 15-20cm distance, the 
+support could be a wall, rack or another 
+unpacked module box of the same type, 
+and then use scissors to cut all the packing 
+strap of the outer box. 
+ 
+3. Remove the top cover of the box, and then 
+remove the carton by lifting it. Two persons 
+hold the modules to prevent them from 
+tipping over. The other person cuts the top 
+2 horizontal straps and the 2 vertical straps 
+of the modules, retaining the bottom 
+horizontal strap. 
+ 
+4. 
+Stand on both sides of the short side of the 
+module and slowly lean the module 
+towards the support, and when the module 
+is completely leaning on the support, cut 
+the remaining bottom horizontal packing 
+strap on the short side; finally, remove all 
+modules sequentially from the outer one. 
+Note: When cutting the internal packing strap, 
+the person must stand on both sides of the 
+short side to avoid the modules from sliding 
+down and hitting person due to rough ground. 
+The remaining modules should be placed flat 
+and packed with the straps before being 
+transported. 
+UNPACKING INSTRUCTION 
+ 
+ 
+Packing method B: Plan 2(With the internal wooden N-
+shaped protectors) 
+ 
+1. 
+Remove the wrapping film around the box 
+and separate the upper and lower boxes. 
+ 
+2. 
+The long side of the module to be 
+unpacked needs to be close to a solid 
+support for about 15-20cm distance, the 
+support could be a wall, rack or another 
+unpacked module box of the same type, 
+and then use scissors to cut all the packing 
+strap of the outer box. 
+ 
+3. 
+Remove the top cover of the box, and then 
+remove the carton by lifting it. Cut the 3 
+horizontal straps on the wooden N-shaped 
+protectors and then remove the wooden 
+N-shaped protectors. 
+ 
+4. 
+Two persons hold the modules to prevent 
+them from tipping over. The other person 
+cuts the top 2 horizontal straps and the 2 
+vertical straps of the modules, retaining the 
+bottom horizontal strap.  
+ 
+5. Stand on both sides of the short side of the 
+module and slowly lean the module 
+towards the support, and when the module 
+is completely leaning on the support, cut 
+the remaining bottom horizontal packing 
+strap on the short side; finally, remove all 
+modules sequentially from the outer one. 
+Note: When cutting the internal packing strap, 
+the person must stand on both sides of the 
+short side to avoid the modules from sliding 
+down and hitting person due to rough ground. 
+The remaining modules should be placed flat 
+and packed with the straps before being 
+transported.  
+UNPACKING INSTRUCTION 
+ 
+ 
+Packing method B: Plan 3(With the exterior wooden 
+protector and cross-packing) 
+ 
+1. Remove the wrapping film around the box, 
+then cut the cross-packing straps and 
+remove the exterior wooden protector. 
+ 
+2. Cut the straps of the upper and lower 
+modules packages, then separate the upper 
+and lower modules boxes. 
+ 
+3. The long side of the module to be 
+unpacked needs to be close to a solid 
+support for about 15-20cm distance, the 
+support could be a wall, rack or another 
+unpacked module box of the same type, 
+and then use scissors to cut all the packing 
+strap of the outer box. 
+ 
+4. Remove the top cover of the box, and then 
+remove the carton by lifting it. Two persons 
+hold the modules to prevent them from 
+tipping over. The other person cuts the top 
+3 horizontal straps and the 2 vertical straps 
+of the modules, retaining the bottom 
+horizontal strap. 
+ 
+5. Stand on both sides of the short side of the 
+module and slowly lean the module 
+towards the support, and when the module 
+is completely leaning on the support, cut 
+the remaining bottom horizontal packing 
+strap on the short side; finally, remove all 
+modules sequentially from the outer one. 
+Note: When cutting the internal packing strap, 
+the person must stand on both sides of the 
+short side to avoid the modules from sliding 
+down and hitting person due to rough ground. 
+The remaining modules should be placed flat 
+and packed with the straps before being 
+transported. 
+UNPACKING INSTRUCTION 
+ 
+ 
+3.4 Attention to unpacking 
+ 
+⚫ When opening cartons outdoors, avoid operating on rainy days because the 
+cartons will soften and spread out to damage modules after rain; 
+⚫ Fixed measures shall be taken for disassembled modules when outdoor 
+wind-operated. It is advisable not to move the modules to avoid damage； 
+⚫ Stack modules in a ventilated, rainproof, and dry place before the modules 
+are unpacked; 
+⚫ Use scissors or art knife to cut the outer box packing tape. Do not scratch 
+glass. Confirm the number of modules in the box immediately after opening 
+the case; 
+⚫ After leaving the box, support should be placed on the back of the assembly 
+to prevent the modules from collapsing (Figure12); 
+⚫ The working ground needs to ensure that the packing box can be stably 
+placed horizontally to avoid dumping of the modules; 
+⚫ The transshipment movement of the packing box shall be completed before 
+the outer packing case is removed, and after unpacking, it shall no longer be 
+transshipped with no fixed protection of the packaging material, and it shall 
+be repackaged before being transported, or a single piece of manual short 
+distance lifting shall be carried out; 
+⚫ Please wear protective gloves during unpacking and handling to avoid 
+scratching hands or leaving fingerprints on glass; 
+⚫ Each module needs to be carried by 2 people, pull the junction box is 
+prohibited in any case, when lifting the module, grab the short edge and take 
+out the module (Figure 13); 
+⚫ Do not remove the corner guard from the modules before installation; 
+⚫ The install remaining modules should be placed centrally and protected by 
+packing case; 
+⚫ Before installation, please use scissors to cut the binding band of the fixed 
+wire to avoid the connector hitting the back and damaging the modules. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 12                          Figure 13 
+ 
+UNPACKING INSTRUCTION 
+ 
+ 
+3.5 Instruction for unpacking, handling and sampling at project site  
+1. When the modules are transported at the project site, the transportation 
+route shall be selected on a smooth road to avoid damage or cracks of the 
+modules caused by turbulence, collision, extrusion, tilt and other factors. The 
+modules shall be transported on a flat ground; 
+2. Remove the packing straps and protective film of the upper and lower pallets, 
+and separate the upper and lower pallets with a forklift truck (the shelf wall 
+of the forklift truck shall have cushions, such as foam or silicone pads, to 
+prevent hidden cracks caused by the collision or extrusion between the 
+modules and the shelf wall (Figure 14)); 
+3. If the modules need to be spot tested, please refer to the unpacking 
+instructions of this manual 3.3/3.4 to unbox the modules;  
+During the unpacking process, a solid support has to be provided on one 
+side of the module to prevent it from toppling over (Figure 15); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 14(1) 
+Figure 14(2) 
+Figure 15 
+4. When taking the modules out of the box, it is recommended to use 
+protective tooling to separate the modules to prevent friction from 
+producing flecks. Hard pulling and skewed drawing of the modules are not 
+allowed (Figure 16). 
+ 
+UNPACKING INSTRUCTION 
+ 
+ 
+5. After modules are taken out of box, they should be placed on a vacant pallet. 
+Module should be carried by two people and handled with care during the 
+sampling process (Figure 17). In the process of sampling, the following 
+precautions should be paid attention to avoid causing secondary cracks of 
+modules; 
+a) If you need to remove the ties which are used to fix cables, use a tool such 
+as scissors to cut off the ties. And do not hit the rear side of module with 
+the connector. 
+b) If the module needs to be turned over, fixing measures (adhesive tape, 
+etc.) shall be adopted to fix the connectors to prevent the cracks caused 
+by the drop of the connectors (Figure 18); 
+c) After the completion of the test, remove the tape on the cable, and then 
+fix the cable with a tie, and then pack the modules again for secondary 
+transport; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 16                                 Figure 17                                      Figure 18
+INSTRUCTION FOR SAMPLING 
+ 
+ 
+4.1 Instruction for sampling at the project site 
+ 
+1. Remove the tie: hold the connector upward with right hand, twist the 
+connector and pull it upward slightly. Cut the tie with scissors, and do not 
+make the connector hit the rear side of the module. 
+ 
+ 
+ 
+ 
+2. Connect the connector: When connecting the connector, do not shake the 
+cable to avoid damaging the module. 
+3. Turn over the module: Use fixing measures (adhesive tape, etc.) to fix 
+connector or hold the connector and cable with hands to prevent the cracks 
+caused by the dropped connector or cable. 
+4.2 Instruction of sample modules 
+ 
+1. Sample modules must be selected for sampling with no damage to the outer 
+package. 
+2. If the client will have a second transfer of modules, Jinko is only responsible 
+for the EL test results of the modules at the first unloading point. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Global Sales & Marketing Center 
+ 
+No.1, Lane 1466, Shenchang Road, 
+Minhang District, Shanghai, China  
+Postcode：201106 
+Tel:+86 21 5183 8777 
+Fax:+86 21 5180 8600 
+ 
+Jiangxi Manufacture Base 
+ 
+No.1 Yingbin Road, Economic 
+Development Zone, Shangrao City, 
+334100, Jiangxi, P.R.China 
+Tel:+86 793 858 8188 
+Fax:+86 793 846 1152 
+ 
+Zhejiang Manufacture Base 
+ 
+No.58 Yuanxi Road, 
+Haining Yuanhua Industrial Park, Zhejiang  
+Province, China 314416  
+Tel: +86 573 8798 5678 
+Fax: +86 573 8787 1070 
+www.jinkosolar.com | Technic Support: technic@jinkosolar.com | After-sales: cs@jinkosolar.com
